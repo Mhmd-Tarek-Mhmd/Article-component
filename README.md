@@ -5,7 +5,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 ## Links
 
 - Live Site [URL](https://mhmd-tarek-mhmd.github.io/article-component)
-- Solution [URL](https://www.frontendmentor.io/solutions/article-component-)
+- Solution [URL](https://www.frontendmentor.io/solutions/article-component-7H_zLROel)
 
 ## Screenshots
 
